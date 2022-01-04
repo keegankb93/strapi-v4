@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_articles",
+  "info": {
+    "singularName": "test-article",
+    "pluralName": "test-articles",
+    "displayName": "test_articles"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
