@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_test_category_my_longer_names",
+  "info": {
+    "displayName": "my_longer_name",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "test_article": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::test-article.test-article"
+    }
+  }
+}

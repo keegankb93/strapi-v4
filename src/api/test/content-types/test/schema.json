@@ -67,6 +67,11 @@
     },
     "test_json": {
       "type": "json"
+    },
+    "articles_list": {
+      "type": "component",
+      "repeatable": false,
+      "component": "test-category.my-articles"
     }
   }
 }
